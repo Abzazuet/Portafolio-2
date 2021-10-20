@@ -323,7 +323,7 @@ footer {
     position: fixed;
     flex-direction: column;
     top: 86px;
-    left: 10%;
+    left: 0%;
     width: 80%;
     text-align: center;
     transform: translateX(120%);
